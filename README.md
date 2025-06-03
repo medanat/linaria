@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="Linaria" src="website/assets/linaria-logo@2x.png" width="496">
-</p>
+<a href="https://www.callstack.com/open-source" align="center">
+  <img alt="Linaria" src="https://github.com/user-attachments/assets/746f7b2a-8136-47a7-b79b-e790c1974e40">
+</a>
 
 <p align="center">
 Zero-runtime CSS in JS library.
